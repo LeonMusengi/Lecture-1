@@ -1,0 +1,14 @@
+body{
+	font-family:Verdana;
+	margin:0;
+}
+img{
+	height: 256px;
+	width: 512px;
+}
+#container{
+	display:flex;
+	align: center;
+	justify-content: center;
+	flex-direction: column;
+}
