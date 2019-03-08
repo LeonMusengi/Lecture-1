@@ -22,7 +22,7 @@ example of variable declaration `let x=1`
 
 Checklist
 
--[]Learn markdown
+-[X]Learn markdown
 -[]Code Twitter cover page
 -[]Code landing page
 
